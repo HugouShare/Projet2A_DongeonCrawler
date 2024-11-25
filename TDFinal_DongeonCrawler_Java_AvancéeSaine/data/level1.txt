@@ -1,0 +1,13 @@
+TTTTTTT
+T     T
+T  R  T
+T     T
+T   S T
+T     T
+T R R P
+T     T
+T     T
+T  OR T
+T     T
+T  R  T
+TTTTTTT
